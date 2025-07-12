@@ -1,5 +1,11 @@
-# Creating_an_Account_Lockout_Policy
-### Step 10: Account Lockout Policies
-- Uderneath the same tab with the **Account Policies**, you should also notice the **Account Lockout Policies** settings
+# Creating an Account Lockout Policy
+### Account Lockout Policies
+- On the top right of the main page of the AD server, click on **Tools** and then click on **Group Policy Management**
+- In our example we're just going to link it to the **GPO** folder
+- Next right click on the **GPO** folder tab, and select new, and name it **Account Lockout Policy**
+- Navigate to **Computer Configuration** -> **Policies** -> **Windows Settings** -> **Security Settings** -> **Account Policies** -> and then click on **Account Lockout Policy**
 - Click on that, and configure them as you see fit as well
 ![Loom Screenshot 2025-06-06 at 08 45 15](https://github.com/user-attachments/assets/e2e6cbe5-e3ec-4496-a2cc-0c2452c613aa)
+
+## Demo Video
+-[Account Lockout Policy Config](https://www.loom.com/share/bdb50ec3be2c443684e0ef2fed26bf65?sid=50ef34dd-1242-41f8-b83d-6d8dc4e89f60)
