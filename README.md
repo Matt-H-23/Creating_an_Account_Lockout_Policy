@@ -1,4 +1,4 @@
-# Creating an Account Lockout Policy
+# Creating an Account Lockout Policy🔒
 -This lab illustrates how to enforce **Account Lockout Policies**
 ### Account Lockout Policies
 - On the top right of the main page of the AD server, click on **Tools** and then click on **Group Policy Management**
