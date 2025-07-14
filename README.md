@@ -10,3 +10,6 @@
 
 ## Demo Video🎥
 -[Account Lockout Policy Config](https://www.loom.com/share/bdb50ec3be2c443684e0ef2fed26bf65?sid=50ef34dd-1242-41f8-b83d-6d8dc4e89f60)
+
+# Don't Forget!!
+- In order for these policy changes to take effect, you need to remember to open **Command Prompt** and run the **gpupdate /force** command to enforce the new **Active Directory** policy changes.
